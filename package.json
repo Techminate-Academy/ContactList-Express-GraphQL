@@ -1,0 +1,18 @@
+{
+  "name": "sazid",
+  "version": "1.0.0",
+  "description": "simple graphql server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "author": "sazidahmed",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.5.0",
+    "nodemon": "^2.0.16"
+  }
+}

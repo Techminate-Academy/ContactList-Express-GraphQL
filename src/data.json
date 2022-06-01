@@ -1,0 +1,52 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Sazid Ahmed",
+      "email": "sazidahmed.official@gmail.com",
+      "age": 35
+    },
+    {
+      "id": "2",
+      "name": "Sadia Ahmed",
+      "email": "sadiaahmed.official@gmail.com",
+      "age": 50
+    },
+    {
+      "name": "Sakin Ahmed",
+      "email": "sakin@gmail.com",
+      "age": 34,
+      "id": "3"
+    },
+    {
+      "name": "Sakin Ahmed",
+      "email": "sakin@gmail.com",
+      "age": 34,
+      "id": "4"
+    },
+    {
+      "name": "Sakin Ahmed",
+      "email": "sakin@gmail.com",
+      "age": 34,
+      "id": "aVVOQkU"
+    },
+    {
+      "name": "Sakin Ahmed",
+      "email": "sakin@gmail.com",
+      "age": 34,
+      "id": "gj2Pi7J"
+    },
+    {
+      "name": "Sakin Ahmed",
+      "email": "sakin@gmail.com",
+      "age": 34,
+      "id": "xlmit7X"
+    },
+    {
+      "name": "Sakin Ahmed",
+      "email": "sakin@gmail.com",
+      "age": 34,
+      "id": "BQqRILl"
+    }
+  ]
+}
